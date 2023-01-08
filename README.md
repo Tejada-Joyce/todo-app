@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# To Do App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is a simple todo app with initial mock up data. You can interact with it, but the data is not being stored in a database. This means that when you reload the page, it won't save your changes.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is a simple to do app with initial mock up data. You can interact with it, but the data is not being stored in a database. This means that when you reload the page, it won't save your changes.
 
 Url: https://todo-app-ce.netlify.app
 
